@@ -69,3 +69,31 @@ backend/.yarn-integrity
 
 # Secrets
 backend/.env.development
+
+
+# FRONTEND
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+fronend/node_modules
+fronend/.pnp
+fronend/.pnp.js
+
+# testing
+fronend/coverage
+
+# production
+fronend/build
+
+# misc
+fronend/.DS_Store
+fronend/.env.local
+fronend/.env.development.local
+fronend/.env.test.local
+fronend/.env.production.local
+
+fronend/npm-debug.log*
+fronend/yarn-debug.log*
+fronend/yarn-error.log*
+frontend/node_modules/
