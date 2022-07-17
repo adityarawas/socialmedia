@@ -1,6 +1,9 @@
 .home{
     position: relative;
     display: grid;
-    grid-template-columns: 18rem auto 28rem;
-    gap: 1rem;
+    grid-template-columns: 20rem auto 15rem;
+  gap: 1rem;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1230px;
 }

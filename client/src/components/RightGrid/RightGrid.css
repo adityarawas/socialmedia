@@ -1,0 +1,22 @@
+.RightCols{
+    display: flex;
+    flex-direction: column;
+    gap:2rem ;
+}
+.navigations{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigations > svg {
+    height: 1.5rem;
+    width: 1.5rem;
+    cursor: pointer;
+}
+
+.shareBtn{
+    height: 3rem;
+    width: 80%;
+    align-self: center;
+}
