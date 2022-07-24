@@ -17,7 +17,7 @@ const Post = () => {
             <BiMessageSquareDetail />
             <RiSendPlaneLine />
         </div>
-        <span>4 Likes</span>
+        <span style={{color:"var(--gray)", fontSize:"12px"}} >4 Likes</span>
         <div className='details'>
             <span><strong>Aditya Rawas</strong></span>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi enim quisquam nulla voluptatibus suscipit explicabo nihil aliquid eos consequatur, earum beatae voluptatem magnam nemo ipsa quasi officia rerum nisi eligendi?</p>
