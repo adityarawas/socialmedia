@@ -1,7 +1,7 @@
 import React from "react";
-import PostsGrid from "../../components/PostsGrid/PostsGrid";
-import ProfileGrid from "../../components/ProfileGrid/ProfileGrid";
-import RightGrid from "../../components/RightGrid/RightGrid";
+import PostsGrid from "../../components/HomePageComponenets/PostsGrid/PostsGrid";
+import ProfileGrid from "../../components/HomePageComponenets/ProfileGrid/ProfileGrid";
+import RightGrid from "../../components/HomePageComponenets/RightGrid/RightGrid";
 import "./home.css";
 const Home = () => {
   return (
